@@ -6,6 +6,6 @@
 
 - 🎮 Hobbies include competitive programming(even though I am weak), Go(Chinese chess), billiards, and basketball. 
 
-- 📖 Reading list: The Midnight Library
+- 📖 Reading list: The Midnight Library, Rich Dad Poor Dad
 
 [![TribbianniSun's github stats](https://github-readme-stats.vercel.app/api?username=TribbianniSun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
