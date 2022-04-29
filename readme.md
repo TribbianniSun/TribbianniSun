@@ -4,7 +4,7 @@
 
 - ❤️ I love Algorithm and Software Engineering, and my top languages are C++, Python, Java, and OCaml. 
 
-- 🎮 Hobbies include Ping Pong, Billiards, Competitive Programming(蒟蒻), and Go(Chinese chess). 
+- 🎮 Hobbies include Ping Pong, Billiards, Competitive Programming(蒟蒻), Switch Racing Games, and Go(Chinese chess). 
 
 - 📖 Reading list: The Midnight Library, The Razor's Edge
 
