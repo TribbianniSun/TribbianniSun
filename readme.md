@@ -2,10 +2,10 @@
 
 - 💼 Incoming Software Engineer at [Google](https://about.google/)
 
-- ❤️ I love Algorithm and Software Engineering, and my top languages are C++, Python, and Java. 
+- ❤️ I love Algorithm and Software Engineering, and my top languages are C++, Python, Java, and OCaml. 
 
-- 🎮 Hobbies include billiards, competitive programming(even though I am weak), Go(Chinese chess), and basketball. 
+- 🎮 Hobbies include Ping Pong, Billiards, Competitive Programming(蒟蒻), and Go(Chinese chess). 
 
-- 📖 Reading list: The Midnight Library, Rich Dad Poor Dad
+- 📖 Reading list: The Midnight Library, The Razor's Edge
 
 [![TribbianniSun's github stats](https://github-readme-stats.vercel.app/api?username=TribbianniSun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
